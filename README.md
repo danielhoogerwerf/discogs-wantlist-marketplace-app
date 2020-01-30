@@ -6,6 +6,6 @@ Use it for fun, at your own risk and please don't use it for production purposes
 
 > Requirements: Python 3.x (written on 3.7), requests and xmltodict libraries.
 
-Some parameters within the app require configuration within your discogs.com profile, and you should adjust the User Agent string as well. For more information about this, I would highly recommend visiting https://www.discogs.com/developers.
+Some parameters in the app require configuration within your discogs.com profile, and you should adjust the User Agent strings as well. For more information about this, I would highly recommend visiting https://www.discogs.com/developers.
 
 
